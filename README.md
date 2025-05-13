@@ -40,7 +40,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 ### 2023
 * DeWave: Discrete EEG Waves Encoding for Brain Dynamics to Text Translation  (NIPS 2023)   [[paper]](https://arxiv.org/abs/2309.14030) [[code]](https://github.com/duanyiqun/DeWave)
 * Learning Topology-Agnostic EEGRepresentations with Geometry-AwareModeling  (NIPS 2023)   [[paper]](https://papers.nips.cc/paper_files/paper/2023/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html) [[code]]
-* (https://seqml.github.io/MMM/)
+(https://seqml.github.io/MMM/)
 
 ### 2022 
 * Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts (NIPS 2022)   [[paper]](https://arxiv.org/abs/2209.11233) [[code]](https://github.com/neerajwagh/evaluating-eeg-representations)
